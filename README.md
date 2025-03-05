@@ -52,10 +52,7 @@ This project showcases a **fully interactive Power BI dashboard** built for **Ad
 - **📉 Return Rate Optimization**: Pinpointed high-return products & recommended pricing adjustments.
 - **📊 Customer Retention**: Analyzed top customers and frequent purchase patterns.
 - **📦 Product Strategy**: Suggested inventory & marketing focus based on high-demand products.
-
----
-
-## 📸 **Project PDF**
+  
 
 ---
 
