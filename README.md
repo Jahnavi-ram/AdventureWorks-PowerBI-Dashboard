@@ -1,6 +1,7 @@
 ## 🚀 Power BI AdventureWorks Sales & Customer Analysis Dashboard
 
 AI-Powered Business Intelligence | Root Cause Analysis | Ad-Hoc Analysis | Data Storytelling
+
 📊 Built using: Power BI | DAX | AI-Powered Insights | Data Modeling | Interactive Dashboards
 
 ### 📌 **Project Overview**
