@@ -10,11 +10,11 @@
 This end-to-end Power BI project delivers **AI-powered business intelligence** for **AdventureWorks Cycles**, integrating **advanced analytics, interactive dashboards, and real-time decision-making tools**. The goal was to transform **raw sales and customer data into actionable insights**, optimize product performance, and enhance strategic business decisions.
 
 ### **🔹 Key Functionalities Implemented:**
-✅ **Dynamic KPI Dashboard:** Tracks revenue, orders, return rates, and profitability.
-✅ **AI-Powered Analysis:** Key Influencers & Decomposition Tree for **root cause analysis**.
-✅ **Interactive Drill-throughs:** Product-specific deep dives with **dynamic filtering**.
-✅ **Ad-Hoc Analysis & Business Insights:** Identified top customers and **high-return products**.
-✅ **Data Modeling & DAX:** Created **calculated measures** for **sales performance evaluation**.
+- ✅ **Dynamic KPI Dashboard:** Tracks revenue, orders, return rates, and profitability.  
+- ✅ **AI-Powered Analysis:** Key Influencers & Decomposition Tree for **root cause analysis**.  
+- ✅ **Interactive Drill-throughs:** Product-specific deep dives with **dynamic filtering**.  
+- ✅ **Ad-Hoc Analysis & Business Insights:** Identified top customers and **high-return products**.  
+- ✅ **Data Modeling & DAX:** Created **calculated measures** for **sales performance evaluation**.  
 
 ---
 
@@ -39,7 +39,7 @@ This end-to-end Power BI project delivers **AI-powered business intelligence** f
 
 ### **4️⃣ AI-Powered Insights**
 - **🧠 Key Influencers Visual:** Identified factors driving **customer retention & purchase behavior**.
-- **📊 Decomposition Tree:** Performed **root cause analysis on product returns & sales trends**.
+- **📊 Decomposition Tree:** Performed **root cause analysis on product returns & sales trends**.  
   - Touring Bikes had the highest return rate (3.3%), **exceeding the company average (2.17%)**.
   - **Touring-2000 Blue, 46 model had an 8.33% return rate**, revealing potential quality control issues.
 - **🔍 Anomaly Detection:** Spotted **unexpected revenue fluctuations & return rate spikes**.
@@ -72,13 +72,14 @@ This end-to-end Power BI project delivers **AI-powered business intelligence** f
 ---
 
 ## **📌 Why This Project Stands Out?**
-✅ **Business-Centric Insights:** Not just visuals, but **real business-driven analysis**.
-✅ **AI-Powered Analytics:** Used **Key Influencers, Decomposition Tree & Smart Narratives** to enhance decision-making.
-✅ **Advanced DAX & Data Modeling:** Built a **scalable, optimized data model** with complex measures.
-✅ **Interactive & Dynamic Dashboards:** Drill-through, filters, and AI-powered insights.
-✅ **Designed for Action:** Insights that directly help **reduce returns, optimize pricing, and drive revenue growth**.
+✅ **Business-Centric Insights:** Not just visuals, but **real business-driven analysis**.  
+✅ **AI-Powered Analytics:** Used **Key Influencers, Decomposition Tree & Smart Narratives** to enhance decision-making.  
+✅ **Advanced DAX & Data Modeling:** Built a **scalable, optimized data model** with complex measures.  
+✅ **Interactive & Dynamic Dashboards:** Drill-through, filters, and AI-powered insights.  
+✅ **Designed for Action:** Insights that directly help **reduce returns, optimize pricing, and drive revenue growth**.  
 
 👉 **Ideal for showcasing business intelligence and data analytics skills in real-world scenarios.**
+
 
 ---
 
